@@ -78,7 +78,7 @@ SystemSleepConfiguration config;
 
 // Various timing constants
 unsigned long MAX_TIME_TO_PUBLISH_MS = 900000; // Only stay awake for this time trying to connect to the cloud and publish.
-const unsigned long TIME_AFTER_PUBLISH_MS = 120000; // After publish, wait 2 minutes for data to go out
+const unsigned long TIME_AFTER_PUBLISH_MS = 4000; // After publish, wait 2 minutes for data to go out
 
 // ***** IMPORTANT!!!
  //If SECONDS_BETWEEN_MEASUREMENTS < 600, must use 
