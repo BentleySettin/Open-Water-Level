@@ -1,3 +1,8 @@
+**In this Folder you will find: **
+1. McMaster Design option for deployment with Polycase
+2. 3D Design option for deployment with Polycase
+3. A deployment guide specific to the PVC model (below)
+
 Once you have successfully fabricated the **PVC Model** based on these [steps](https://github.com/COAST-Lab/Open-Water-Level/tree/ac8e949a22b2f5b2a5e1ccd7503b6fde46d579b2/Fabrication/PVC-Enclosure), follow this guide for deployment. Extra supplies needed for these steps are PVC cement, Silicon Sealant, Low Density PTFE seal tape, and O-Ring Silicon Grease.
 1. Ensure that the extra LiPo battery and Solar system battery are fully charged.
 2. Verify that the correct code and firmware is flashed onto your Boron.
