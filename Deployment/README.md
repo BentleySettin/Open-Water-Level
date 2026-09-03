@@ -1,4 +1,4 @@
-**In this Folder you will find: **
+**In this Folder you will find:**
 1. McMaster Design option for deployment with Polycase
 2. 3D Design option for deployment with Polycase
 3. A deployment guide specific to the PVC model (below)
