@@ -1,5 +1,4 @@
-**Bill of Materials
-**
+**Bill of Materials**
 Parts | Function | Cost | URL
 | :---------------- | :------ | :---- | :---- |
 Steel DIN 3 Rail | Direct attachment to solar panel | $4.83 | [https://www.digikey.com/en/products/detail/particle-industries-inc/BRN404X/17632424](https://www.mcmaster.com/catalog/8961K86)
@@ -12,8 +11,7 @@ Strut Channel with Mounting Plate | Attachment to hard structure for deployment 
 - 1/4-20 x 1" Socket Cap Screw
 - 1/4-20 x 3" Socket Cap Screw
 
-**Instructions: 
-**
+**Instructions:**
 1. Knockout a knockout of the polycase on the opposite side of the water level sensor. This deployment part will attach to the top of the polycase with the water level sensor pointing perpendicular to water. 
 2. Attach the DIN Rail to the strut channel bracket using a 1/4-29 x 1" screw, washers, and nut. Note that we want the solar panel at a 30 degree angle, so attach these two parts appropriately (see photo).
 3. Attach the solar panel to the DIN rail using 4/40 x 3/4" screws, nuts, and washers.
